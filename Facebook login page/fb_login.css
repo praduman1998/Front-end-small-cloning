@@ -1,0 +1,30 @@
+.container{
+    width: 300px;
+    height: 500px;
+    outline: 1px solid red;
+    margin: 50px;
+}
+.login{
+    text-align: center;
+    color: blue;
+
+}
+.mail{
+    text-align: center;
+}
+.pass{
+    text-align: center;
+}
+#login{height: 20px;
+    border-radius: 9rem;
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
+.new{
+    height: 25px;
+    text-align: center;
+    color: white;
+    background-color: rgb(16, 155, 16);
+    border-radius: 6px;
+}
